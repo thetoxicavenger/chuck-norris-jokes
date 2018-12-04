@@ -1,0 +1,6 @@
+// TODO:
+// add emoji for X/check
+// add npm script in my repo to run with certain arguments
+// check if file already exists, if so throw
+// change name to scaffold-react-component
+// push to npm registry

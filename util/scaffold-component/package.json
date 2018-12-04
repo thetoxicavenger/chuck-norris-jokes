@@ -1,0 +1,15 @@
+{
+  "name": "scaffold-component",
+  "version": "1.0.0",
+  "description": "A CLI utility to write component boilerplate in React.",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "nodemon src/main"
+  },
+  "author": "Mitch Cravens (mcravens12@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "nodemon": "^1.18.7"
+  }
+}
